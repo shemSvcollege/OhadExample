@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OhadExample/static/css/main.073c9b0a.css",
+    "main.js": "/OhadExample/static/js/main.071fa13d.js",
+    "static/js/787.ec78c698.chunk.js": "/OhadExample/static/js/787.ec78c698.chunk.js",
+    "static/media/logo.svg": "/OhadExample/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OhadExample/index.html",
+    "main.073c9b0a.css.map": "/OhadExample/static/css/main.073c9b0a.css.map",
+    "main.071fa13d.js.map": "/OhadExample/static/js/main.071fa13d.js.map",
+    "787.ec78c698.chunk.js.map": "/OhadExample/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.071fa13d.js"
+  ]
+}
